@@ -561,6 +561,7 @@ form textarea {
 
       .sec-wrapper {
           min-width: 500px;
+          width: 100%;
       }
 
       .l, .c, .r, .l *, .c *, .r *, p, ol{
