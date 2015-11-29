@@ -450,6 +450,7 @@ form textarea {
 
     .l, .c, .r, .l *, .c *, .r *, p, ol{
         text-align: justify;
+        font-size: 1.2em;
     }
 
     .sec-wrapper h1, .sec-wrapper h2, .sec-wrapper h3, .sec-wrapper h4, .sec-wrapper h5, .sec-wrapper h6 {
@@ -573,6 +574,7 @@ form textarea {
 
       .l, .c, .r, .l *, .c *, .r *, p, ol{
           text-align: justify;
+          font-size: 1.2em;
       }
 
       .sec-wrapper h1, .sec-wrapper h2, .sec-wrapper h3, .sec-wrapper h4, .sec-wrapper h5, .sec-wrapper h6 {
