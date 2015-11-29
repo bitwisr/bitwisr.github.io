@@ -455,6 +455,9 @@ form textarea {
     .sec-wrapper h1, .sec-wrapper h2, .sec-wrapper h3, .sec-wrapper h4, .sec-wrapper h5, .sec-wrapper h6 {
         text-align: center;
     }
+    section {
+        flex-direction: column;
+    }
 }
 @media (max-width: 934px) {
     #v-arr {
@@ -565,7 +568,7 @@ form textarea {
           flex-wrap: nowrap;
       }
       section {
-          flex-wrap: nowrap;
+          flex-direction: column;
       }
 
       .l, .c, .r, .l *, .c *, .r *, p, ol{
